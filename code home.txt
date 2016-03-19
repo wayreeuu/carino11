@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Home</title>
+<style>
+	body {background-image : url('bghome.jpg');}
+</style>
+</head>
+<body>
+<p align=center><img src="hello.jpg"></p>
+<p align=center>
+	<font size="7" color="blue">
+		<b>***********This is my page**********</b>
+	</font>
+</p>
+</body>
+</html>
